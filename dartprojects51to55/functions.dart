@@ -1,0 +1,4 @@
+printname()
+{
+  print("Ziyad");
+}
