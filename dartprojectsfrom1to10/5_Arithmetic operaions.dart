@@ -13,5 +13,6 @@ void main()
  print(c);
  print(a~/b); // 3.33 to 3 cancel decimal Numbers After decimal point
  print(a%b);
+ ptint(a*b/c)
 
 }
